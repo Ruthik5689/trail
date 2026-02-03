@@ -22,5 +22,5 @@ def minCost(str1, str2):
 
 str1 = input("Enter string 1 :")
 str2 = input("Enter string 2 :")
-
+print(min is)
 print(minCost(str1, str2))
